@@ -275,10 +275,10 @@ ul.check-list li p{padding-left: 10px; width: calc(100% - 18px); float: left;}
 /*----- FAQ Section -----*/
 .faq-part {padding-bottom: 30px;}
 .Frequently-tabs{display: block; text-align: center; border: 0;}
-.Frequently-tabs li{padding: 0px 20px; display: inline-block;}
+.Frequently-tabs li{padding: 5px 5px 0px 0px; display: inline-block;}
 .Frequently-tabs li:first-child{padding-left: 0;}
 .Frequently-tabs li:last-child{padding-right: 0;}
-.Frequently-tabs li a{font-size: 16px; text-transform: uppercase; position: relative; display: block;}
+.Frequently-tabs li a{font-size: 14px; text-transform: uppercase; position: relative; display: block;}
 .Frequently-tabs li a:before{content: ""; position: absolute; bottom: -10px; left: 50%; transform: translate(-50%); width: 0; height: 2px; transition: all 400ms ease;}
 .Frequently-tabs li a.active:before{width: 80%;}
 .faq-tab {max-width: 540px;}
@@ -371,8 +371,7 @@ _______________________________________________________*/
 /*----- FAQ tow Section -----*/
 .faq-part-2 {overflow: hidden;}
 .faq-part-2 .heading-des{max-width: 740px;}
-.faq-part-2 .Frequently-tabs li a{padding: 15px 26px; border-radius: 5px;}
-.faq-part-2 .Frequently-tabs li {padding: 0px 10px;}
+.faq-part-2 .Frequently-tabs li a{padding: 7px 16px; border-radius: 5px;}
 .faq-part-2 .Frequently-tabs li a:before{content: unset;}
 .faq-part-2 .faq-tab {padding: 45px 40px; border-radius: 5px; max-width: unset;}
 .faq-part-2 .qus-title {font-size: 18px; font-weight: 400;}
